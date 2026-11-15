@@ -1,0 +1,3 @@
+# 统一换行：源码存 LF，Windows 批处理存 CRLF
+* text=auto eol=lf
+*.bat text eol=crlf
