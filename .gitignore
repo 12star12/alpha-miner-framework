@@ -1,0 +1,18 @@
+# credentials
+.env
+.env.local
+
+# runtime data: database, logs, intermediate artifacts
+data/
+
+# local backups / editor noise
+backup/
+.workbuddy/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
